@@ -1,1 +1,1 @@
-linux
+This project is meant to introduce you to the basics of Git and Github, it involves configuring basic information such as name,email on your local machine and creating a repositiory called "zero_day".  Additionally you need to SSH into your Ubuntu VM and determine the output of the "uname" command.
